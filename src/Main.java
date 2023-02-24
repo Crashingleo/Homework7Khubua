@@ -129,7 +129,7 @@ public class Main {
     }
     public static void task8()
     {
-        System.out.println("Task 8");
+        System.out.println("Task 8 :)");
         int PastYear = 1823;
         int FutureYear = 2123;
         for (int Start = 0; Start < FutureYear; Start += 79)
